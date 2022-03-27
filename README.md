@@ -5,9 +5,9 @@ I always want to learn new technologies and skills to exploit them.
 <br>
 Thanks for visiting y profile! Have a nice day! 😊</h4>
 
-## :rocket: Languages and Tools
+## :sparkles: Languages and Tools
 
-<h4 align="left">JavaScript | React | Redux | NodeJS | ExpressJS | Sequelize | PostgreSQL | HTML | CSS | Entre otras</h4>
+<h4 align="left">JavaScript | React | Redux | NodeJS | ExpressJS | Sequelize | PostgreSQL | HTML | CSS | And others</h4>
 
 ## :bulb: My Projects
 
