@@ -1,13 +1,13 @@
 <h1 align="center">Hello! I am Ornella👋😄 Full Stack Web Developer 👩🏻‍💻</h1>
 
-<h4 align="left"> I am a 27 years old young woman from Argentina who loves challenges. I have done an intensive Full Stack Development Bootcamp focused on Javascript technologies where I was involved in the development of different apps. 
+<h4 align="center"> I am a 27 years old young woman from Argentina who loves challenges. I have done an intensive Full Stack Development Bootcamp focused on Javascript technologies where I was involved in the development of different apps. 
 I always want to learn new technologies and skills to exploit them. 
 <br>
 Thanks for visiting y profile! Have a nice day! 😊</h4>
 
 ## :rocket: Languages and Tools
 
-<h4 align="left" JavaScript | React | Redux | NodeJS | ExpressJS | Sequelize | PostgreSQL | HTML | CSS | Entre otras </h4>
+<h4 align="left">JavaScript | React | Redux | NodeJS | ExpressJS | Sequelize | PostgreSQL | HTML | CSS | Entre otras</h4>
 
 ## :bulb: My Projects
 
