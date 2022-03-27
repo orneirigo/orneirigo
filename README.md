@@ -11,14 +11,13 @@ Thanks for visiting my profile! Have a nice day! 😊</h4>
 ## :bulb: My Projects
 
 <h3 align="left">Pokemon App</h3>
-<p align="left">Development of a SPA (Single Page Application) that consumes data from an external API</p>
 
 <p>
-<img width="40%" src = './images/PokemonApp1.png/' alt='poke1'>
-<img width="40%" src = './images/PokemonApp2.png/' alt='poke2'>
+<img width="40%" src='./images/PokemonApp1.png/' alt='poke1'>
+<img width="40%" src='./images/PokemonApp2.png/' alt='poke2'>
 <br>
-<img width="40%" src = './images/PokemonApp3.png/' alt='poke3'>
-<img width="40%" src = './images/PokemonApp4.png/' alt='poke4'>
+<img width="40%" src='./images/PokemonApp3.png/' alt='poke3'>
+<img width="40%" src='./images/PokemonApp4.png/' alt='poke4'>
 </p>
 
 ## :round_pushpin: How to Contact me
