@@ -1,15 +1,16 @@
 <h1 align="center">Hello! I am Ornella 👋</h1>
 <h3 align="center">Full Stack Web Developer 👩🏻‍💻</h3>
-
-- I am a 27 years old young woman from Argentina who loves challenges.
-- I have done an intensive Full Stack Development Bootcamp focused on Javascript technologies where I was involved in the development of different apps. 
-- I always want to learn new skills and technologies to exploit them. 
-- Thanks for visiting my profile! Have a nice day! 😊
+<p>
+✔️ I am a 27 years old young woman from Argentina who loves challenges.
+✔️ I have done an intensive Full Stack Development Bootcamp focused on Javascript technologies where I was involved in the development of different apps. 
+✔️ I always want to learn new skills and technologies to exploit them. 
+✔️ Thanks for visiting my profile! Have a nice day! 😊
+</p>
 
 ## :bulb: Languages and Tools
 
-<h4 align="left">JavaScript | React | Redux | NodeJS | ExpressJS | Sequelize | PostgreSQL | HTML | CSS | Others</h4>
-<p align="left"> 
+<h4 align="center">JavaScript | React | Redux | NodeJS | ExpressJS | Sequelize | PostgreSQL | HTML | CSS | Others</h4>
+<p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a> 
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> </a> 
@@ -23,15 +24,13 @@
 
 ## :bulb: My Projects
 
-<h3 align="left">✔️ Pokemon App</h3>
-<p> 
-Development of a SPA (Single Page Application) using React for the Front End and Redux as state management. All the components were developed with CSS without the use of external libraries.
+<h3 align="left">Pokemon App</h3>
 
-✔️Some features of the project: Cache of searches, orders and filters, controlled form for creation of pokemons.
+- Development of a Single Page Application using React for the Front End and Redux as state management. 
+- All the components were developed with CSS without the use of external libraries.
+- Some features of the project: search bar, orders and filters, controlled form for creation of pokemons.
+- The SPA consumes data from an API (https://pokeapi.co/) through a Back End developed in Node.JS using Express.
 
-✔️The SPA consumes data from an API (https://pokeapi.co/) through a Back End developed in Node.JS using Express, adding new functionalities to the original API. </p>
-
-<p>
 <img width="40%" src='./images/PokemonApp1.png/' alt='poke1'>
 <img width="40%" src='./images/PokemonApp2.png/' alt='poke2'>
 <br>
