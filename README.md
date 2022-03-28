@@ -1,11 +1,11 @@
 <h1 align="center">Hello! I am Ornella 👋</h1>
 <h3 align="center">Full Stack Web Developer 👩🏻‍💻</h3>
-<p>
+<ul>
 ✔️ I am a 27 years old young woman from Argentina who loves challenges.
 ✔️ I have done an intensive Full Stack Development Bootcamp focused on Javascript technologies where I was involved in the development of different apps. 
 ✔️ I always want to learn new skills and technologies to exploit them. 
 ✔️ Thanks for visiting my profile! Have a nice day! 😊
-</p>
+</ul>
 
 ## :bulb: Languages and Tools
 
@@ -31,6 +31,7 @@
 - Some features of the project: search bar, orders and filters, controlled form for creation of pokemons.
 - The SPA consumes data from an API (https://pokeapi.co/) through a Back End developed in Node.JS using Express.
 
+<p>
 <img width="40%" src='./images/PokemonApp1.png/' alt='poke1'>
 <img width="40%" src='./images/PokemonApp2.png/' alt='poke2'>
 <br>
