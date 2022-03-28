@@ -24,6 +24,12 @@
 ## :bulb: My Projects
 
 <h3 align="left">✔️ Pokemon App</h3>
+<p> 
+Development of a SPA (Single Page Application) using React for the Front End and Redux as state management. All the components were developed with CSS without the use of external libraries.
+
+✔️Some features of the project: Cache of searches, orders and filters, controlled form for creation of pokemons.
+
+✔️The SPA consumes data from an API (https://pokeapi.co/) through a Back End developed in Node.JS using Express, adding new functionalities to the original API. </p>
 
 <p>
 <img width="40%" src='./images/PokemonApp1.png/' alt='poke1'>
