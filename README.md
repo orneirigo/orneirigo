@@ -41,7 +41,7 @@ Thanks for visiting my profile! Have a nice day! 😊
 ## :round_pushpin: How to Contact me
 
 <a href="https://www.linkedin.com/in/ornella-irigo/" ><img width="30" height="30" src="./icons/LinkedIn.png"> &nbsp;
-<a href="mailto:ornella.irigo@gmail.com" ><img width="32" height="30" src="./icons/Gmail.png">
+<a href="mailto:ornella.irigo@gmail.com" ><img width="34" height="28" src="./icons/Gmail.png">
 
 
 
