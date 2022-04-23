@@ -31,7 +31,22 @@ Thanks for visiting my profile! Have a nice day! 😊
 - The SPA consumes data from an API (https://pokeapi.co/) through a Back End developed in Node.JS using Express.
 
 <p>
-<img width="40%" src='./images/PokemonApp1.png/' alt='poke1'>
+<img width="40%" src='./images/PokemonApp1.png/'alt='pokemon'>
+</p>
+
+<h3 align="left">ZooPer Trivia App</h3>
+
+- ZooPer Trivia is an online multiplayer trivia game.
+- Scrum methodology was used to monitor the progress of the application.
+- Some features of the project: customize the profile, create new questions, buy gold coins to spend on powers, set up the game.
+- The app is completely built with JavaScript. The technologies used are:
+🐾 React, Redux, Bootstrap5, HTML, CSS.
+🐾 Node.js, Express, Sequelize, PostgreSQL.
+🐾 Socket.io, Firebase, Axios, Nodemailer.
+🐾 Sweetalert2, Toastify, Payment Market.
+
+<p>
+<img width="40%" src='./images/ZooperTrivia.jpg/'alt='zoopertrivia'>
 </p>
 
 ## :round_pushpin: How to Contact me
