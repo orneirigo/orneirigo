@@ -36,14 +36,10 @@ Thanks for visiting my profile! Have a nice day! 😊
 
 <h3 align="left">ZooPer Trivia App</h3>
 
-- ZooPer Trivia is an online multiplayer trivia game.
-- Scrum methodology was used to monitor the progress of the application.
+- Online multiplayer trivia game.
+- Scrum methodology was used to monitor the progress of the app.
 - Some features of the project: customize the profile, create new questions, buy gold coins to spend on powers, set up the game.
-- The app is completely built with JavaScript. The technologies used are:
-🐾 React, Redux, Bootstrap5, HTML, CSS.
-🐾 Node.js, Express, Sequelize, PostgreSQL.
-🐾 Socket.io, Firebase, Axios, Nodemailer.
-🐾 Sweetalert2, Toastify, Payment Market.
+- The app is completely built with JavaScript. 
 
 <p>
 <img width="40%" src='./images/ZooperTrivia.jpg/'alt='zoopertrivia'>
