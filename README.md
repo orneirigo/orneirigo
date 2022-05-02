@@ -86,10 +86,10 @@ I am a 27 years old young woman from Argentina. I have done an intensive Full St
 ## :round_pushpin: How to Contact me
 
 <a href="https://www.linkedin.com/in/ornella-irigo/" target="_blank" rel="noreferrer">
-<img width="auto" height="28" src="./icons/LinkedIn.png" alt='LinkedIn'/> &nbsp;
+<img width="auto" height="28" src="./icons/LinkedIn-Logo.png" alt='LinkedIn'/> &nbsp;
 </a> 
 <a href="mailto:ornella.irigo@gmail.com" target="_blank" rel="noreferrer">
-<img width="34" height="28" src="./icons/Gmail.png" alt='Gmail'/>
+<img width="34" height="28" src="./icons/Gmail-Logo.png" alt='Gmail'/>
 </a> 
 
 
