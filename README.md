@@ -15,46 +15,46 @@ I am a 27 years old young woman from Argentina. I have done an intensive Full St
 <h4 align="left">JavaScript | React | Redux | Bootstrap | NodeJS | ExpressJS | Sequelize | PostgreSQL | HTML | CSS | Firebase | Postman | Git | Heroku</h4>
 
 <p align="left"> 
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
+<a href="https://www.javascript.com/" target="blank" rel="noreferrer"> 
 <img src="./assets/javascript.svg" alt="Javascript" width="40" height="40"/> 
 </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+<a href="https://reactjs.org/" target="blank" rel="noreferrer"> 
 <img src="./assets/react.svg" alt="React" width="40" height="40"/> 
 </a> 
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+<a href="https://redux.js.org" target="blank" rel="noreferrer"> 
 <img src="./assets/redux.svg" alt="Redux" width="40" height="40"/> 
 </a> 
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
+<a href="https://getbootstrap.com/" target="blank" rel="noreferrer"> 
 <img src="./assets/bootstrap.svg" alt="Bootstrap" width="40" height="40"/> 
 </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+<a href="https://nodejs.org" target="blank" rel="noreferrer"> 
 <img src="./assets/nodejs.svg" alt="NodeJS" width="40" height="40"/> 
 </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+<a href="https://expressjs.com" target="blank" rel="noreferrer"> 
 <img src="./assets/express.svg" alt="ExpressJS" width="40" height="40"/> 
 </a> 
-<a href="https://sequelize.org/v5/" target="_blank" rel="noreferrer"> 
+<a href="https://sequelize.org/v5/" target="blank" rel="noreferrer"> 
 <img src="./assets/sequelizejs.svg" alt="Sequelize" width="40" height="40"/> 
 </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+<a href="https://www.postgresql.org" target="blank" rel="noreferrer"> 
 <img src="./assets/postgresql.svg" alt="PostgreSQL" width="40" height="40"/> 
 </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="blank" rel="noreferrer"> 
 <img src="./assets/html5.svg" alt="HTML5" width="40" height="40"/> 
 </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="blank" rel="noreferrer"> 
 <img src="./assets/css-3.svg" alt="CSS3" width="40" height="40"/> 
 </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+<a href="https://firebase.google.com/" target="blank" rel="noreferrer"> 
 <img src="./assets/firebase.svg" alt="Firebase" width="40" height="40"/> 
 </a> 
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+<a href="https://www.postman.com/" target="blank" rel="noreferrer"> 
 <img src="./assets/postman.svg" alt="Postman" width="40" height="40"/> 
 </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<a href="https://git-scm.com/" target="blank" rel="noreferrer"> 
 <img src="./assets/git.svg" alt="Git" width="40" height="40"/> 
 </a> 
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> 
+<a href="https://www.heroku.com/" target="blank" rel="noreferrer"> 
 <img src="./assets/heroku.svg" alt="Heroku" width="40" height="40"/> 
 </a> 
 </p>
@@ -85,10 +85,10 @@ I am a 27 years old young woman from Argentina. I have done an intensive Full St
 
 ## :round_pushpin: How to Contact me
 
-<a href="https://www.linkedin.com/in/ornella-irigo/" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/ornella-irigo/" target="blank" rel="noreferrer">
 <img width="auto" height="28" src="./icons/LinkedIn-Logo.png" alt='LinkedIn'/> &nbsp;
 </a> 
-<a href="mailto:ornella.irigo@gmail.com" target="_blank" rel="noreferrer">
+<a href="mailto:ornella.irigo@gmail.com" target="blank" rel="noreferrer">
 <img width="34" height="28" src="./icons/Gmail-Logo.png" alt='Gmail'/>
 </a> 
 
