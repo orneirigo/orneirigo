@@ -1,13 +1,17 @@
 <h1 align="center">Hi! I'm Ornella 👋</h1>
 <h3 align="center">Full Stack Web Developer from Argentina</h3>
 
-:woman_technologist: I’m currently working as a **Frontend Developer in Flux IT**
-:seedling: I always want to learn new skills and technologies and **I am determined to grow in the IT industry!**
-:zap: All of my projects are available at [Building Portfolio]
-:envelope_with_arrow: How to reach me **ornella.irigo@gmail.com**
-:rocket: Know about my experiences **https://www.linkedin.com/in/ornella-irigo/**
-:blush: Thanks for visiting my profile! **Have a nice day!**
+:earth_americas: I’m currently working as a **Frontend Developer in Flux IT**
 
+:seedling: I always want to learn new skills and technologies and **I am determined to grow in the IT industry!**
+
+:zap: All of my projects are available at [Building Portfolio]
+
+:envelope_with_arrow: How to reach me **ornella.irigo@gmail.com**
+
+:rocket: Know about my experiences **https://www.linkedin.com/in/ornella-irigo/**
+
+:blush: Thanks for visiting my profile! **Have a nice day!**
 
 ## :bulb: Languages and Tools
 
