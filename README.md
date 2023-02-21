@@ -1,29 +1,40 @@
 <h1 align="center">Hi! I'm Ornella 👋</h1>
-<h3 align="center">Full Stack Web Developer 👩🏻‍💻</h3>
-<p align="left">
-I am a 27 years old young woman from Argentina. I have done an intensive Full Stack Development Bootcamp focused on Javascript technologies where I was involved in the development of different apps. 
+<h3 align="center">Full Stack Web Developer from Argentina</h3>
 
-:star_struck: I always want to learn new skills and technologies to exploit them and **I am determined to grow in the IT industry!**
-
-:nerd_face: I’m currently learning **TypeScript and Socket.io**
-
-:blush: Thanks for visiting my profile! **Have a nice day!**
-</p>
+😄 I’m currently working **as a Frontend Developer in Flux IT**
+🌱 I always want to learn new skills and technologies and **I am determined to grow in the IT industry!**
+👩🏻‍💻 All of my projects are available at [Building Portfolio]
+📩 How to reach me **ornella.irigo@gmail.com**
+✨ Know about my experiences [https://www.linkedin.com/in/ornella-irigo/]
+😊 Thanks for visiting my profile! **Have a nice day!**
 
 ## :bulb: Languages and Tools
-
-<h4 align="left">JavaScript | React | Redux | Bootstrap | NodeJS | ExpressJS | Sequelize | PostgreSQL | HTML | CSS | Firebase | Postman | Git | Heroku</h4>
 
 <p align="left"> 
 <a href="https://www.javascript.com/" target="blank" rel="noreferrer"> 
 <img src="./assets/javascript.svg" alt="Javascript" width="40" height="40"/> 
 </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+<img src="./assets/typecript.svg"  alt="typescript" width="40" height="40"/> 
+</a> 
 <a href="https://reactjs.org/" target="blank" rel="noreferrer"> 
 <img src="./assets/react.svg" alt="React" width="40" height="40"/> 
 </a> 
 <a href="https://redux.js.org" target="blank" rel="noreferrer"> 
 <img src="./assets/redux.svg" alt="Redux" width="40" height="40"/> 
 </a> 
+<a href="https://git-scm.com/" target="blank" rel="noreferrer"> 
+<img src="./assets/git.svg" alt="Git" width="40" height="40"/> 
+</a> 
+<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="blank" rel="noreferrer"> 
+<img src="./assets/html5.svg" alt="HTML5" width="40" height="40"/> 
+</a> 
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="blank" rel="noreferrer"> 
+<img src="./assets/css-3.svg" alt="CSS3" width="40" height="40"/> 
+</a> 
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+<img src="./assets/sass.svg" alt="sass" width="40" height="40"/>
+</a>
 <a href="https://getbootstrap.com/" target="blank" rel="noreferrer"> 
 <img src="./assets/bootstrap.svg" alt="Bootstrap" width="40" height="40"/> 
 </a> 
@@ -39,27 +50,24 @@ I am a 27 years old young woman from Argentina. I have done an intensive Full St
 <a href="https://www.postgresql.org" target="blank" rel="noreferrer"> 
 <img src="./assets/postgresql.svg" alt="PostgreSQL" width="40" height="40"/> 
 </a> 
-<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="blank" rel="noreferrer"> 
-<img src="./assets/html5.svg" alt="HTML5" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="blank" rel="noreferrer"> 
-<img src="./assets/css-3.svg" alt="CSS3" width="40" height="40"/> 
-</a> 
 <a href="https://firebase.google.com/" target="blank" rel="noreferrer"> 
 <img src="./assets/firebase.svg" alt="Firebase" width="40" height="40"/> 
 </a> 
 <a href="https://www.postman.com/" target="blank" rel="noreferrer"> 
 <img src="./assets/postman.svg" alt="Postman" width="40" height="40"/> 
 </a> 
-<a href="https://git-scm.com/" target="blank" rel="noreferrer"> 
-<img src="./assets/git.svg" alt="Git" width="40" height="40"/> 
-</a> 
-<a href="https://www.heroku.com/" target="blank" rel="noreferrer"> 
-<img src="./assets/heroku.svg" alt="Heroku" width="40" height="40"/> 
-</a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+<img src="./assets/docker.svg" alt="docker" width="40" height="40"/>
+</a>
+<a href="https://graphql.org" target="_blank" rel="noreferrer"> 
+<img src="./assets/apollo.svg" alt="apollo" width="40" height="40"/> 
+</a>
+<a href="https://www.apollographql.com/docs/react/" target="_blank" rel="noreferrer"> 
+<img src="./assets/graphql.svg" alt="graphql" width="40" height="40"/> 
+</a>
 </p>
 
-## :bulb: My Projects
+## :bulb: Some of my Projects
 
 <h3 align="left">Pokemon App</h3>
 
@@ -86,10 +94,10 @@ I am a 27 years old young woman from Argentina. I have done an intensive Full St
 ## :round_pushpin: How to Contact me
 
 <a href="https://www.linkedin.com/in/ornella-irigo/" target="blank" rel="noreferrer">
-<img width="auto" height="28" src="./icons/LinkedIn-Logo.png" alt='LinkedIn'/> &nbsp;
+<img width="auto" height="28" src="./icons/LinkedIn.svg" alt='LinkedIn'/> &nbsp;
 </a> 
 <a href="mailto:ornella.irigo@gmail.com" target="blank" rel="noreferrer">
-<img width="34" height="28" src="./icons/Gmail-Logo.png" alt='Gmail'/>
+<img width="34" height="28" src="./icons/Gmail.png" alt='Gmail'/>
 </a> 
 
 
