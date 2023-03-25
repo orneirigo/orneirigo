@@ -68,10 +68,7 @@
 <img src="./assets/jest.svg" alt="Jest" width="40" height="40"/> 
 </a> 
 <a href="https://graphql.org" target="_blank" rel="noreferrer"> 
-<img src="./assets/apollo.svg" alt="apollo" width="40" height="40"/> 
-</a>
-<a href="https://www.apollographql.com/docs/react/" target="_blank" rel="noreferrer"> 
-<img src="./assets/graphql.svg" alt="graphql" width="40" height="40"/> 
+<img src="./assets/graphql.svg" alt="apollo" width="40" height="40"/> 
 </a>
 </p>
 
