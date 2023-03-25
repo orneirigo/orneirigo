@@ -54,16 +54,19 @@
 </a> 
 <a href="https://www.postgresql.org" target="blank" rel="noreferrer"> 
 <img src="./assets/postgresql.svg" alt="PostgreSQL" width="40" height="40"/> 
+</a>
+<a href="https://www.postman.com/" target="blank" rel="noreferrer"> 
+<img src="./assets/postman.svg" alt="Postman" width="40" height="40"/> 
 </a> 
 <a href="https://firebase.google.com/" target="blank" rel="noreferrer"> 
 <img src="./assets/firebase.svg" alt="Firebase" width="40" height="40"/> 
 </a> 
-<a href="https://www.postman.com/" target="blank" rel="noreferrer"> 
-<img src="./assets/postman.svg" alt="Postman" width="40" height="40"/> 
-</a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
 <img src="./assets/docker.svg" alt="docker" width="40" height="40"/>
 </a>
+<a href="https://jestjs.io/" target="blank" rel="noreferrer"> 
+<img src="./assets/jest.svg" alt="Jest" width="40" height="40"/> 
+</a> 
 <a href="https://graphql.org" target="_blank" rel="noreferrer"> 
 <img src="./assets/apollo.svg" alt="apollo" width="40" height="40"/> 
 </a>
