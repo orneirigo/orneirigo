@@ -18,15 +18,15 @@
 🔬 Exploring **multi-agent systems for AI automation**. Full repository with **LangGraph workflows & implementations** coming soon!  
 
 ### 💡 AI Score Answers App  
-🛠 Built with **Python, Streamlit, MongoDB, Docker, Kubernetes**  
+✔ Built with **Python, Streamlit, MongoDB, Docker, Kubernetes**  
 ✔ A scalable tool for **evaluating chatbot-generated answers** in real-time.  
 
 ### 🎮 ZooPer Trivia App  
-🧠 **Online multiplayer trivia game** with profile customization, question creation, and power-ups.  
+✔ **Online multiplayer trivia game** with profile customization, question creation, and power-ups.  
 ✔ Developed using **JavaScript, React, and Redux**, following **Scrum methodology**.  
 
-### 🐉 Pokemon App  
-🎮 **Single Page Application (SPA) for managing Pokemon data** with search, filters, and custom Pokemon creation.  
+### 🎮 Pokemon App  
+✔ **Single Page Application (SPA) for managing Pokemon data** with search, filters, and custom Pokemon creation.  
 ✔ Built using **React, Redux, Node.js, Express & PostgreSQL**, consuming **PokeAPI**.
 
 ---
