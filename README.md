@@ -32,9 +32,9 @@
 ---
 
 ## 📚 Latest Courses & Learning  
-✅ **Introduction to LangGraph - LangChain Academy**  
-✅ **Python Total - Advanced Programmer**
-✅ **Python for Data Science & Machine Learningr**
+- ✅ **Introduction to LangGraph - LangChain Academy**  
+- ✅ **Python Total - Advanced Programmer**  
+- ✅ **Python for Data Science & Machine Learning**  
 
 ---
 
