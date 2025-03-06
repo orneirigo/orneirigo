@@ -15,13 +15,13 @@
 
 ## 📌 Featured Projects
 ### 🤖 LangGraph AI Agent Experiments  
-🔬 Exploring **multi-agent systems for AI automation**. Full repository with **LangGraph workflows & implementations** coming soon!  
+✔ Exploring **multi-agent systems for AI automation**. Full repository with **LangGraph workflows & implementations** coming soon!  
 
 ### 💡 AI Score Answers App  
 ✔ Built with **Python, Streamlit, MongoDB, Docker, Kubernetes**  
 ✔ A scalable tool for **evaluating chatbot-generated answers** in real-time.  
 
-### 🎮 ZooPer Trivia App  
+### 🚀 ZooPer Trivia App  
 ✔ **Online multiplayer trivia game** with profile customization, question creation, and power-ups.  
 ✔ Developed using **JavaScript, React, and Redux**, following **Scrum methodology**.  
 
