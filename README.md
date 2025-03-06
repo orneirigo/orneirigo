@@ -15,7 +15,8 @@
 
 ## 📌 Featured Projects
 ### 🤖 LangGraph AI Agent Experiments  
-✔ Exploring **multi-agent systems for AI automation**. Full repository with **LangGraph workflows & implementations** coming soon!  
+✔ Exploring **multi-agent systems for AI automation**. 
+✔ Full repository with **LangGraph workflows & implementations** coming soon!  
 
 ### 💡 AI Score Answers App  
 ✔ Built with **Python, Streamlit, MongoDB, Docker, Kubernetes**  
