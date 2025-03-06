@@ -9,13 +9,15 @@
 - **Machine Learning & Data Science** (Python, Google Colab, LangChain, Pandas, Numpy, Matplotlib, scikit-learn, OpenAI GPTs)  
 - **Full-Stack Development** (TypeScript, React, Redux Toolkit, Node.js, Streamlit, PostgreSQL, MongoDB, Docker)  
 
-🌱 Currently **expanding my expertise in LangGraph, RAG, and AI-powered solutions**.  
+🌱 **Currently expanding my expertise in LangGraph, RAG, and AI-powered solutions.**  
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects  
+
 ### 🤖 LangGraph AI Agent Experiments  
-✔ Exploring **multi-agent systems for AI automation**. Full repository with **LangGraph workflows & implementations** coming soon!  
+✔ Exploring **multi-agent systems for AI automation**.  
+✔ Full repository with **LangGraph workflows & implementations coming soon!**  
 
 ### 💡 AI Score Answers App  
 ✔ Built with **Python, Streamlit, MongoDB, Docker, Kubernetes**  
@@ -26,20 +28,21 @@
 ✔ Developed using **JavaScript, React, and Redux**, following **Scrum methodology**.  
 
 ### 🎮 Pokemon App  
-✔ **Single Page Application (SPA) for managing Pokemon data** with search, filters, and custom Pokemon creation.  
-✔ Built using **React, Redux, Node.js, Express & PostgreSQL**, consuming **PokeAPI**.
+✔ **Single Page Application (SPA) for managing Pokémon data** with search, filters, and custom Pokémon creation.  
+✔ Built using **React, Redux, Node.js, Express & PostgreSQL**, consuming **PokeAPI**.  
 
 ---
 
 ## 📚 Latest Courses & Learning  
-- ✅ **Introduction to LangGraph - LangChain Academy**  
-- ✅ **Python Total - Advanced Programmer**  
-- ✅ **Python for Data Science & Machine Learning**  
+✅ **Introduction to LangGraph - LangChain Academy**  
+✅ **Python Total - Advanced Programmer**  
+✅ **Python for Data Science & Machine Learning**  
 
 ---
 
 ## 📩 Let’s connect!  
-🌎 [LinkedIn](https://www.linkedin.com/in/ornella-irigo/)  
-📧 [Mail](ornella.irigo@gmail.com/)  
+🌎 [**LinkedIn**](https://www.linkedin.com/in/ornella-irigo/)  
+📧 **ornella.irigo@gmail.com**  
 
-😊 Thanks for visiting my profile!  
+😊 **Thanks for visiting my profile!**  
+
