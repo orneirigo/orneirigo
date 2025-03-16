@@ -16,11 +16,11 @@
 ## 📌 Featured Projects  
 
 ### 🤖 LangGraph AI Agent Experiments  
-✔ Exploring **multi-agent systems for AI automation**.  
+✔ Exploring **multi-agent systems for AI automation**.
 ✔ Full repository with **LangGraph workflows & implementations coming soon!**  
 
 ### 💡 Streamlit Score QA App  
-✔ Built with **Python, Streamlit, MongoDB, Docker**  
+✔ Built with **Python, Streamlit, MongoDB and Docker**.
 ✔ A scalable tool for **evaluating chatbot-generated answers** in real-time.  
 
 ### 🚀 ZooPer Trivia App  
