@@ -3,7 +3,6 @@
 
 🔹 Passionate about **Artificial Intelligence** and its real-world applications. I combine my background in **Data Science, Machine Learning, and Software Development** to create **scalable, efficient, and innovative solutions**.  
 
----
 
 ### 🔍 Specialized in:  
 - **Large Language Models (LLMs), Prompt Engineering & Chatbot Development**  
