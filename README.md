@@ -17,7 +17,7 @@
 
 ### 🤖 LangGraph AI Agent Experiments  
 ✔ Exploring **multi-agent systems for AI automation**.  
-✔ Full repository with **LangGraph workflows & implementations**  
+✔ Full repository with **LangGraph workflows & implementations coming soon!**  
 
 ### 💡 Streamlit Score QA App  
 ✔ Built with **Python, Streamlit, MongoDB, Docker**  
