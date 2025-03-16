@@ -3,6 +3,8 @@
 
 🔹 Passionate about **Artificial Intelligence** and its real-world applications. I combine my background in **Data Science, Machine Learning, and Software Development** to create **scalable, efficient, and innovative solutions**.  
 
+---
+
 ### 🔍 Specialized in:  
 - **Large Language Models (LLMs), Prompt Engineering & Chatbot Development**  
 - **LangChain, LangGraph, RAG & AI Agents**  
@@ -16,11 +18,11 @@
 ## 📌 Featured Projects  
 
 ### 🤖 LangGraph AI Agent Experiments  
-✔ Exploring **multi-agent systems for AI automation**.
+✔ Exploring **multi-agent systems for AI automation**.  
 ✔ Full repository with **LangGraph workflows & implementations coming soon!**  
 
 ### 💡 Streamlit Score QA App  
-✔ Built with **Python, Streamlit, MongoDB and Docker**.
+✔ Built with **Python, Streamlit, MongoDB and Docker**.  
 ✔ A scalable tool for **evaluating chatbot-generated answers** in real-time.  
 
 ### 🚀 ZooPer Trivia App  
@@ -29,7 +31,7 @@
 
 ### 🎮 Pokemon App  
 ✔ **Single Page Application (SPA) for managing Pokémon data** with search, filters, and custom Pokémon creation.  
-✔ Built using **React, Redux, Node.js, Express & PostgreSQL**, consuming **PokeAPI**.  
+✔ Built using **React, Redux, Node.js, Express & PostgreSQL**, consuming **PokeAPI**.
 
 ---
 
